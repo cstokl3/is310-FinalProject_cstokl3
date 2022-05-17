@@ -1,4 +1,4 @@
-##Programming Over Time
+##Programming Over Time##
 
 Throughout the course of this semester, I feel like so many of the skills we used, whether those be through programming or understanding how to analyze the world of the digital humanities, have been incredibly effective for this final project. I came in not even knowing what digital humanities was, and had the bare minimum in coding experience, so to see myself grow to have a personal and working definition, and lots of Python code behind me. My project focused on the changes presented in programming languages over the past decade (2012-2022), utilizing Twitter as the basis of data information I have analyzed. My base for this project really stemmed from the influence presented upon me from the various CS courses I have taken at the UIUC and a want to learn how data science can apply to more things other than academics. I feel like we are not exposed to these types of projects enough in classes, and I would like to develop a better understanding of so many of the growing topics in the ‘real’ world. Later in the semester, once we were exposed to more of these digital humanist blog postings, such as Which DH Tools Are Actually Used in Research and the Pudding articles, I was able to visualize my own final project then and develop an idea of how to go about this. 
 
@@ -8,20 +8,29 @@ Now moving into the blog posts that I mentioned previously, that really allowed 
 
 Overall, I think that this was one of the most interesting projects I have been able to work on at my time at UIUC. 
 
+Java Tweets Plot:
 ![alt text](javapic.png "Java Tweets Plot")
 
+Kotlin Tweets Plot:
 ![alt text](kotlinpic.png "Kotlin Tweets Plot")
 
+C Tweets Plot:
 ![alt text](cpic.png "C Tweets Plot")
 
+C++ Tweets Plot:
 ![alt text](cpluspic.png "C++ Tweets Plot")
 
+C# Tweets Plot:
 ![alt text](output.png "C# Tweets Plot")
 
+Data Science Tweets Plot:
 ![alt text](datasciencepic.png "Data Science Tweets Plot")
 
+Machine Learning Tweets Plot:
 ![alt text](machinepic.png "Machine Learning Tweets Plot")
 
-![alt text](sentimental_analysis.png "Sentiment Analysis on Data Science Tweets")
+Sentiment Analysis on Data Science Tweets:
+![alt text](sentimanetal_analysis.png "Sentiment Analysis on Data Science Tweets")
 
+Data Science Word Cloud:
 ![alt text](wordcloud_datascience.png "Data Science Word Cloud")
