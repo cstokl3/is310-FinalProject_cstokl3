@@ -1,0 +1,5 @@
+## Why The Machine Learning Age Needs the Humanities
+
+Now this weeks seminar discussion was something I had never really thought of, how we combine the stastical, hard coded number side of things, and allow these programs to interpret humanities research and data. I think Underwood and this discussion primarily focused on the ways we can really develop a better model, one not easily manipulated to fit standards, one that can understand the contexts behind the data that it is analyzing. Not only this, but developing a better understanding of how people and society work, not through identifying habits, like when to turn on notifications based on the wifi it is connected to, or the likelyhood of you liking a restaurant based on your previous habits and habituations. 
+
+In Underwood's piece, I was really able to see the side that we often forget, the fact that not everything can be done by a machine, that just because a word was frequenty repeated in a piece, does not mean that is of any importance. But overall, we need to consider the human side of the machine and how it will impact society as a whole. 
